@@ -13,14 +13,6 @@ After entering the project folder, you must install the dependencies in the foll
 $ npm install ou yarn install
 $ npm start ou yarn start
 ```
-```bash 
-#Install dependencies mobile
-$ cd mobile
-$ npm install ou yarn install
-# Start mobile
-$ npm start ou yarn start ou expo start
-```
-
 <br>
 
 ## 💻 Technologies
